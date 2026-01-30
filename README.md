@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import wrapf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-wrapf@esm/index.mjs';
+import wrapf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-wrapf@v0.1.0-esm/index.mjs';
 ```
 
 #### wrapf( v, min, max )
@@ -128,7 +128,7 @@ var v = wrapf( 3.14, 3.0, 3.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import wrapf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-wrapf@esm/index.mjs';
+import wrapf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-wrapf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
