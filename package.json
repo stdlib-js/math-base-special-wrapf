@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-wrapf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wrap a single-precision floating-point value to the half-open interval [min,max).",
   "license": "Apache-2.0",
   "author": {
@@ -42,14 +42,14 @@
   "dependencies": {
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
     "@stdlib/math-base-assert-is-negative-zerof": "^0.1.3",
-    "@stdlib/math-base-napi-ternary": "^0.3.0",
+    "@stdlib/math-base-napi-ternary": "^0.3.1",
     "@stdlib/math-base-special-fmodf": "github:stdlib-js/math-base-special-fmodf#main",
     "@stdlib/math-base-special-truncf": "^0.2.2",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/math-base-assert-is-positive-zerof": "^0.1.3",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/utils-try-require": "^0.2.2",
