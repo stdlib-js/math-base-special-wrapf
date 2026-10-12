@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8c05bc6`](https://github.com/stdlib-js/stdlib/commit/8c05bc6d4db92616375d80463af6950eb5bddb9f) - **bench:** clean-up [(#15934)](https://github.com/stdlib-js/stdlib/pull/15934) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8325057`](https://github.com/stdlib-js/stdlib/commit/8325057f59dacc6c43fbb3fa5c1026bf3cc5c296) - **docs:** add equations [(#14695)](https://github.com/stdlib-js/stdlib/pull/14695) _(by Karan Anand)_
 -   [`39c4de7`](https://github.com/stdlib-js/stdlib/commit/39c4de75a25292c00909cda17a7cb055113e608e) - **bench:** refactor to use string interpolation in `math/base/special` [(#11390)](https://github.com/stdlib-js/stdlib/pull/11390) _(by Karan Anand)_
 
@@ -25,9 +26,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
